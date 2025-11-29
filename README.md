@@ -138,18 +138,6 @@ To clean unused Docker objects:
 docker system prune -af
 ```
 
----
-
-## 📸 Screenshots (Optional)
-
-Include screenshots of:
-
-* Adminer connected to DB
-* Healthy containers (`docker ps`)
-* Application running on port 3000
-
----
-
 ## 📜 License
 
 MIT License.
