@@ -1,3 +1,8 @@
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express\&logoColor=white)
+
 # Multi-Service Web Application with Docker & Docker Compose
 
 This project is a **production-like multi-service environment** built using **Docker** and **Docker Compose**, designed to simulate a real DevOps micro-infrastructure. It includes:
