@@ -3,7 +3,24 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express\&logoColor=white)
 
-# Multi-Service Web Application with Docker & Docker Compose
+# 🚀 Multi-Service Web Application with Docker & Docker Compose
+
+A production-like multi-service DevOps environment built using **Docker**, **Docker Compose**, **Node.js**, **PostgreSQL**, and **Adminer**. This project demonstrates real-world containerized micro-infrastructure design, complete with healthchecks, environment variables, service isolation, and persistent storage.
+
+---
+
+## 📘 Overview
+
+This project simulates a real microservices-style setup commonly seen in professional DevOps environments. It focuses on:
+
+* Containerization best practices
+* Multi-stage Dockerfile optimization
+* Multi-service orchestration with Docker Compose
+* Secure service separation using multiple Docker networks
+* Persistent database storage via named volumes
+* Practical DevOps troubleshooting, DNS, and networking behavior
+
+--- & Docker Compose
 
 This project is a **production-like multi-service environment** built using **Docker** and **Docker Compose**, designed to simulate a real DevOps micro-infrastructure. It includes:
 
@@ -143,7 +160,20 @@ To clean unused Docker objects:
 docker system prune -af
 ```
 
+---
+
+## 📸 Screenshots (Optional)
+
+Include screenshots of:
+
+* Adminer connected to DB
+* Healthy containers (`docker ps`)
+* Application running on port 3000
+
+---
+
 ## 📜 License
 
 MIT License.
+
 
